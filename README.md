@@ -1,1 +1,1 @@
-# CORS_resolution
+!! PLEASE NAVIGATE TO THE MASTER BRANCH !!
